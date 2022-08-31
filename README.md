@@ -1,7 +1,7 @@
 
 # Planaria Lab Data Analysis
 
-This repo is for a Biology Lab expirament conducted, testing how palanaria react to light levels.
+This repo is for a Biology Lab expiriment conducted, testing how palanaria react to light levels.
 
 
 ## Documentation
