@@ -13,7 +13,7 @@ This repo is for a Biology Lab expirament conducted, testing how palanaria react
 
 ## Acknowledgements
 
-Thanks to the Biology Lab at JCCC for providing the materials for the expirament. Thank you to Professor Harmon for facilitating the expirament.
+Thanks to the Biology Lab at JCCC for providing the materials for the expirament. Thank you to Professor Harmon for facilitating the expiriment.
 ## Tech Stack
 
 **Main** Python
